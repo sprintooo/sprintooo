@@ -25,7 +25,6 @@ I'm an Android Developer with hands-on experience in building scalable and high-
 📫 **Contact Me**:
 - Email: [himanshupatidar622@gmail.com](mailto:himanshupatidar622@gmail.com)
 - LinkedIn: [linkedin.com/in/himanshu](https://www.linkedin.com/in/himanshu-patidar-b609661a7/)
-- GitHub: [github.com/himanshu](https://github.com/himanshusprinto)
 
 ---
 
